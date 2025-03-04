@@ -24,6 +24,9 @@ cd Front-end-Login-SignUp
 ### 2. Open in Browser
 Simply open index.html in your preferred browser to view the login page.
 
+### 3.
+live demo: [Front-end-Login-SignUp-Page](https://srinivaskanchi-dev.github.io/Front-end-Login-SignUp/)
+
 ## Features
 - Responsive Login & SignUp Forms
 - Form Validation using JavaScript
